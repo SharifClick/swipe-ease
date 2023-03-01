@@ -1,0 +1,19 @@
+{
+  "name": "swipe-ease",
+  "version": "1.0.0",
+  "description": "Effortless swiping made easy with Swipe Ease, Tiny, Simple and supports infinite swipe (5kb minfied)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tiny-swipe",
+    "swipe-ease"
+  ],
+  "author": {
+    "name": "Sharif Ahmed",
+    "email": "me.sharifahmed@gmail.com",
+    "url": "http://sharifahmed.me"
+  },
+  "license": "MIT"
+}
